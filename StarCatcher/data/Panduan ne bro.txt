@@ -1,0 +1,11 @@
+pilih loro , antara credit, option(volume), achievement
+
+ukuran per backgound W : 600, H : 800
+Ukuran bintang W : 56, H : 56
+Ukuran Objek W : 89, H : 98
+Ukuran button selain back  W : 157, H : 52
+ukuran button back W : 115, H : 38
+
+ukuran tombol on dan off W : 36, H : 36
+
+NOTE : Nak misale kegeden don ke
